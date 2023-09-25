@@ -1,3 +1,3 @@
-## Social media is rough, github included.
-I don't like maintaining a public facing image very much, almost all of my work is private or done for projects that don't live here. Some of the code I write can be found under the name [Runaway Systems](https://github.com/runawaysystems).
-If you'd like to talk about anything all, the only real way to get at me is through [Discord](https://discord.com/users/230440842521870336). (send me your weird specific interest of the hour and we will probably get on great)
+## I dislike social media, github included.
+Maintaining a public facing image drains me, and almost all of my work is done privately for corperations. I would love to have open source projects of my own in the wild someday. 
+If you'd like to talk about anything all, the only real way to get at me is through [Discord](https://discord.com/users/230440842521870336). I'm a big old nerd who loves art and building things. (send me your weird specific interest of the hour and we will probably get on great)

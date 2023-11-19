@@ -1,5 +1,6 @@
 ## I like to write high performance code for the Common Language Runtime
 
+<!-- code for the wonderful github cards provided by Anurag Hazra @ https://github.com/anuraghazra/github-readme-stats#github-gist-pins -->
 <a href="https://github.com/Mr-Kittyhawk">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api?username=Mr-Kittyhawk&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&number_format=long&show=reviews,prs_merged_percentage" />
 </a>
@@ -54,6 +55,9 @@ Interested in security tools and reverse engineering.
                       ;ZMMMMMMMMMMMMMMM@A:.
                                         
 -->
+
+### My Favorite Areas of Programming (and how you can learn them too):
+[![Computer Graphics](https://github-readme-stats.vercel.app/api/gist?id=899affb185862e2a042cb0ef19bd7062&theme=dark)](https://gist.github.com/Mr-Kittyhawk/899affb185862e2a042cb0ef19bd7062)
 
 ### Open Source Repositories:
 [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=Mr-Kittyhawk&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/Mr-Kittyhawk/dnSpy-Dark-Plus-Theme)

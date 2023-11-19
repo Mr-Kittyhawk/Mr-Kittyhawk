@@ -17,6 +17,6 @@ Interested in security tools and reverse engineering.
 ### Contact:
 - **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)
 
-### Repositories:
+### Open Source Repositories:
 
 [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=Mr-Kittyhawk&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/Mr-Kittyhawk/dnSpy-Dark-Plus-Theme)

@@ -3,7 +3,7 @@
 <a href="https://github.com/Mr-Kittyhawk">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api?username=Mr-Kittyhawk&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&number_format=long&show=reviews,prs_merged_percentage" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Mr-Kittyhawk">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/top-langs/?username=Mr-Kittyhawk&layout=donut&theme=dark&hide_title=false&size_weight=0.5&count_weight=0.5" />
 </a>
 
@@ -16,3 +16,7 @@ Interested in security tools and reverse engineering.
 
 ### Contact:
 - **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)
+
+### Repositories:
+
+[![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=Mr-Kittyhawk&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/Mr-Kittyhawk/dnSpy-Dark-Plus-Theme)

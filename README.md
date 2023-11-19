@@ -58,5 +58,4 @@ Interested in security tools and reverse engineering.
 -->
 
 ### Open Source Repositories:
-
-[1]: [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=Mr-Kittyhawk&repo=dnSpy-Dark-Plus-Theme&theme=dark$title=Title)](https://github.com/Mr-Kittyhawk/dnSpy-Dark-Plus-Theme) "Title ?"
+[![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=Mr-Kittyhawk&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/Mr-Kittyhawk/dnSpy-Dark-Plus-Theme)

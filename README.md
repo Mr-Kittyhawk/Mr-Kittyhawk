@@ -10,10 +10,8 @@
 <br/>
 <br/>
 
-<p>
-Currently working on AI (the behaviour tree kind), tools, and technical art for videogames. Sometimes rather more boring things for the [AFRL](https://www.afrl.af.mil/). <br>
+Currently working on AI (the behaviour tree kind), tools, and technical art for videogames. Sometimes rather more boring things for the [AFRL](https://www.afrl.af.mil). <br>
 Interested in security tools and reverse engineering.
-</p>
 
 ---
 

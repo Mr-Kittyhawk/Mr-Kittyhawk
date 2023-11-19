@@ -15,4 +15,4 @@ Interested in security tools and reverse engineering.
 ---
 
 ### Contact:
-- **Discord**: [mrkittyhawk]((https://discord.com/users/230440842521870336))
+- **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)

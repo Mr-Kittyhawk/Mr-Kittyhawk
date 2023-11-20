@@ -57,7 +57,8 @@ Interested in security tools and reverse engineering.
 -->
 
 ### My Favorite Areas of Programming (and how you can learn them too):
-[![Computer Graphics](https://github-readme-stats.vercel.app/api/gist?id=899affb185862e2a042cb0ef19bd7062&theme=dark)](https://gist.github.com/Mr-Kittyhawk/899affb185862e2a042cb0ef19bd7062)
+| <a href="https://gist.github.com/Mr-Kittyhawk/899affb185862e2a042cb0ef19bd7062"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=899affb185862e2a042cb0ef19bd7062&theme=dark"/></a> | <a href="https://gist.github.com/Mr-Kittyhawk/5ceff6350d4b838c046292dc7762e7da"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=5ceff6350d4b838c046292dc7762e7da&theme=dark" /></a> |
+| ------------- | ------------- |
 
 ### Open Source Repositories:
 [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=Mr-Kittyhawk&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/Mr-Kittyhawk/dnSpy-Dark-Plus-Theme)

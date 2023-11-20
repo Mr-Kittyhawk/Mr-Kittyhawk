@@ -1,4 +1,13 @@
-## I like to write high performance code for the Common Language Runtime
+## Technical Artist who likes making the Common Language Runtime go brrrrrrrrrr
+
+> Technical Artist - "Not good enough to be an artist or programmer." ~ Keith Guerrette, former lead visual effects artist @ Naughty Dog
+
+<br/>
+
+Currently working on AI (the behaviour tree kind), tools, and technical art for videogames. Sometimes rather more boring things for the [AFRL](https://www.afrl.af.mil). <br>
+Interested in security tools and reverse engineering.
+
+<br/>
 
 <!-- code for the wonderful github cards provided by Anurag Hazra @ https://github.com/anuraghazra/github-readme-stats#github-gist-pins -->
 <a href="https://github.com/Mr-Kittyhawk">
@@ -7,12 +16,6 @@
 <a href="https://github.com/Mr-Kittyhawk">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/top-langs/?username=Mr-Kittyhawk&layout=donut&theme=dark&hide_title=false&size_weight=0.5&count_weight=0.5" />
 </a>
-
-<br/>
-<br/>
-
-Currently working on AI (the behaviour tree kind), tools, and technical art for videogames. Sometimes rather more boring things for the [AFRL](https://www.afrl.af.mil). <br>
-Interested in security tools and reverse engineering.
 
 ---
 

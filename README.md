@@ -1,6 +1,7 @@
 ## Technical Artist who likes making the Common Language Runtime go brrrrrrrrrr
 
-> Technical Artist - "Not good enough to be an artist or programmer." ~ Keith Guerrette, former lead visual effects artist @ Naughty Dog
+> Technical Artist - "Not quite good enough to be an artist, not quite good enough to be a programmer." <br/>
+> ~ Keith Guerrette, former lead visual effects artist @ Naughty Dog
 
 <br/>
 
